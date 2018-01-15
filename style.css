@@ -1,0 +1,17 @@
+header{
+	display: block;
+	margin: 20px;
+}
+label{
+	margin-top: 20px;
+	display: block;
+}
+input{
+	display: inline-block;
+}
+input[type="checkbox"]{
+	display: block;
+}
+input[type="radio"]{
+	display: block;
+}
